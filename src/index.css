@@ -37,7 +37,7 @@ main {
 }
 
 .item button {
-  background-color: #a8d5ba; /* Verde */
+  background-color: #82b08d;
   color: #fff;
   border: none;
   border-radius: 4px;
@@ -47,7 +47,7 @@ main {
 }
 
 .item button:hover {
-  background-color: #82b08d; /* Verde mais escuro */
+  background-color: #a8d5ba; 
 }
 
 footer {
@@ -70,4 +70,18 @@ footer {
   justify-content: center;
   align-items: center;
   margin-bottom: 10px;
+}
+
+.observacao{
+  color: #2b6a6c;
+  font-weight: bold;
+  font-size: 0.9rem;
+  margin-top: 10px;
+}
+
+.valor{
+  color: #2b6a6c;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-top: 10px;
 }
