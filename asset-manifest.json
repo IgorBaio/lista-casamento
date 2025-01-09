@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lista-casamento/static/css/main.75e7867d.css",
+    "main.js": "/lista-casamento/static/js/main.fb99aa7d.js",
+    "static/js/488.d869a816.chunk.js": "/lista-casamento/static/js/488.d869a816.chunk.js",
+    "static/media/calmante.jpeg": "/lista-casamento/static/media/calmante.6f757a3070c2e7163c93.jpeg",
+    "static/media/logo.svg": "/lista-casamento/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lista-casamento/index.html",
+    "main.75e7867d.css.map": "/lista-casamento/static/css/main.75e7867d.css.map",
+    "main.fb99aa7d.js.map": "/lista-casamento/static/js/main.fb99aa7d.js.map",
+    "488.d869a816.chunk.js.map": "/lista-casamento/static/js/488.d869a816.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e7867d.css",
+    "static/js/main.fb99aa7d.js"
+  ]
+}
